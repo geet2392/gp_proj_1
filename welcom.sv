@@ -1,1 +1,2 @@
-Welcome to project modified just now:w
+Welcome to project
+added line at diffrent pos
